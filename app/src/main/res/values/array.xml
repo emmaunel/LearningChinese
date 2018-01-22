@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_category_options">
+        <item>Numbers</item>
+        <item>Family Members</item>
+        <item>Colors</item>
+        <item>Months</item>
+        <item>Phrases</item>
+    </string-array>
+</resources>
